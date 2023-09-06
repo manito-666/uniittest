@@ -1,0 +1,13 @@
+[2023-09-06 14:09:09] - INFO: ----------测试开始----------
+[2023-09-06 14:09:09] - INFO: 接口请求方式 ==>> post
+[2023-09-06 14:09:09] - INFO: 接口请求地址 ==>> http://hn216.api.yesapi.cn/api/App/User/GetLastestLoginList
+[2023-09-06 14:09:09] - INFO: 接口请求头 headers参数 ==>> "{\"Content-Type\": \"application/json\"}"
+[2023-09-06 14:09:09] - INFO: 接口请求体 data 参数 ==>> {
+    "uuid": "0DB9D722BC5DEDD4AF40CDE3938F6694",
+    "token": "AF40ADD16BF3A9774EE5FC54C03631ED142A922F5F06A9D2B096F896BFDFAA3A",
+    "service": "App.User.GetLastestLoginList",
+    "return_data": "0",
+    "app_key":"EB9763C06F1C05E2A7C3DF929A097060"
+}
+[2023-09-06 14:09:09] - INFO: 测试通过
+[2023-09-06 14:09:10] - INFO: ----------测试结束----------
